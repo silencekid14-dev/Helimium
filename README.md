@@ -1,6 +1,6 @@
 # Helimium
 
-**Element 119 — Helimium (Hl)**
+**Element 119 — Helimium (Hl)** 
 
 Theoretical synthesis framework and multi-language executable proofs for the cold/hot fusion reaction:
 
