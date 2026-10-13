@@ -1,0 +1,42 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+helimium_c
+helimium_cpp
+helimium_asm
+helimium
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Temporary
+*.tmp
+*.log
+*.bak
